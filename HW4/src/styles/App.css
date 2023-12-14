@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+  }
+  
+  .navbarStyle {
+    text-align: center;
+    background-color: #eb3b0fce;
+    padding: .5rem 1rem !important
+  }
+
+  .me-auto{
+    margin-left: 3rem !important;
+    font-size: 20px !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+  
+ 
